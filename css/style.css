@@ -1,0 +1,44 @@
+/* RESERT */
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-color: lightgray;
+}
+
+/* HEADER */
+.header{
+    height: 100px;
+    line-height: 100px;
+    /* width: 100%; */
+    background-color: white;
+}
+
+.container-titolo{
+    height: 100px;
+    line-height: 100px;
+}
+.logo{
+    height: 100px;
+    vertical-align: middle;
+}
+
+.titolo{
+    display: inline-block;
+    vertical-align: middle;
+}
+
+/* MAIN */
+.container{
+    padding: 10px 0;
+    width: 70%;
+    margin-top: 40px;
+    margin-left: 15%;
+    height: 100%;
+    line-height: 100%;
+    background-color: white;
+}
