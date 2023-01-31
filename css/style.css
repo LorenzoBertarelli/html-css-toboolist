@@ -33,7 +33,7 @@ body{
 }
 
 /* MAIN */
-.container{
+.container-bottoni{
     padding: 10px 0;
     width: 70%;
     margin-top: 40px;
@@ -41,4 +41,26 @@ body{
     height: 100%;
     line-height: 100%;
     background-color: white;
+    border-radius: 5px 5px 0 0;
+}
+
+.bottone-task{
+    font-size: 15px;
+    padding: 5px;
+    color: white;
+    background-color: cornflowerblue;
+    border-radius: 5px; 
+    margin-left: 10%;
+    border-color: rgb(238, 238, 238);
+    border-width: 1px;
+}
+
+.bottone-section{
+    font-size: 15px;
+    padding: 5px;
+    color: grey;
+    border-radius: 5px; 
+    margin-left: 5px;
+    border-color: rgb(238, 238, 238);
+    border-width: 1px;
 }
